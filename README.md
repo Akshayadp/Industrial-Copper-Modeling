@@ -7,3 +7,12 @@ The Industrial Copper Modeling project addresses challenges in the copper indust
 * Exploratory Data Analysis (EDA) - Visualizing Outliers and Skewness, Correlation Analysis
 * Feature Engineering
 * Model Building and Evaluation - Regression Model (to predicts ‘Selling_Price’), Classification Model
+
+
+**Result**
+
+![image](https://github.com/Akshayadp/Industrial-Copper-Modeling/assets/162536617/48a4ed9d-60ac-47f1-9c32-ef87a1e74b31)
+
+
+![image](https://github.com/Akshayadp/Industrial-Copper-Modeling/assets/162536617/758d0425-a701-498a-b71a-dc9387f73532)
+
